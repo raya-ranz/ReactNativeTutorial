@@ -9,6 +9,7 @@ First day code
  <p><b>React Native QR Code generator:</b> https://github.com/awesomejerry/react-native-qrcode-svg#readme</p>
  
  
+ 
  <h2>VSCode Extensions</h2>
  
 <p><b>Auto Close Tag</b></p>
@@ -23,3 +24,13 @@ First day code
 <h2>Other Extensions</h2>
 <p><b>Theme: </b> Dracula Official</p>
 <p><b>Icons: </b> vscode-icons</p>
+
+<h2>Flexbox</h2>
+<p><b>Documentation:</b> https://reactnative.dev/docs/flexbox</p>
+<p><b>Flex Playground:</b> https://yogalayout.com/playground/</p>
+
+<h2>Hooks</h2>
+<p><b>Documentation:</b> https://reactjs.org/docs/hooks-reference.html</p>
+
+<h2>React Native Components</h2>
+<p><b>Documentation:</b> https://reactnative.dev/docs/components-and-apis</p>
