@@ -1,6 +1,4 @@
-# First Day: Raya Solutions React Native Tutorial
-
-First day code
+# Raya Solutions React Native Tutorial
 
 <h1>resources</h1>
  
