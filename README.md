@@ -25,6 +25,9 @@ First day code
 <p><b>Theme: </b> Dracula Official</p>
 <p><b>Icons: </b> vscode-icons</p>
 
+<h2>Color Palette</h2>
+<p><b>Coolors: </b> https://coolors.co/</p>
+
 <h2>Flexbox</h2>
 <p><b>Documentation:</b> https://reactnative.dev/docs/flexbox</p>
 <p><b>Flex Playground:</b> https://yogalayout.com/playground/</p>
