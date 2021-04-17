@@ -6,19 +6,19 @@ import { rayaTraining1, rayaTraining2 } from "./Source/funcRequired";
 import LessonFlexbox from "./Source/LessonFlexbox";
 import LessonHook from "./Source/LessonHooks";
 import { RayaProvider } from "./Source/Providers/RayaProvider";
+import { Container, Typography } from "./Source/Components";
+import Route from "./Source/routes/";
 
 export default function App() {
   const test1 = rayaTraining1();
   const test2 = rayaTraining2();
   return (
-    <View style={styles.container}>
+    <Container>
       <RayaProvider>
-        <LessonHook />
+        <Route />
       </RayaProvider>
-      {/* <ReactTraining val={{ test1, test2 }} /> */}
-
       <StatusBar style="auto" />
-    </View>
+    </Container>
   );
 }
 
