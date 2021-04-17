@@ -35,3 +35,24 @@
 
 <h2>React Native Components</h2>
 <p><b>Documentation:</b> https://reactnative.dev/docs/components-and-apis</p>
+
+<h2>React Native Elements</h2>
+<p><b>Documentation:</b> https://reactnativeelements.com/docs/</p>
+
+<h2>React Native Vector Icons</h2>
+<p><b>Documentation:</b> https://oblador.github.io/react-native-vector-icons/</p>
+
+<h2>React Navigation Stack</h2>
+<p><b>Documentation:</b> https://reactnavigation.org/docs/stack-navigator</p>
+
+<h2>React Navigation Top Tab</h2>
+<p><b>Documentation:</b> https://reactnavigation.org/docs/material-top-tab-navigator</p>
+
+<h2>React Navigation Bottom Tab</h2>
+<p><b>Documentation:</b> https://reactnavigation.org/docs/material-bottom-tab-navigator</p>
+
+<h2>React Navigation Drawer</h2>
+<p><b>Documentation:</b> https://reactnavigation.org/docs/drawer-navigator</p>
+
+<h2>NEW ES Feature 2020</h2>
+<p><b>Documentation:</b>https://www.freecodecamp.org/news/javascript-new-features-es2020/</p>
